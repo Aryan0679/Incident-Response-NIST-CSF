@@ -1,4 +1,5 @@
 
+
 ## Scenario
 
 You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
@@ -21,3 +22,9 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 - **Detect** potential security incidents and improve monitoring capabilities to increase the speed and efficiency of detections.
 - **Respond** to contain, neutralize, and analyze security incidents; implement improvements to the security process.
 - **Recover** affected systems to normal operation and restore systems data and/or assets that have been affected by an incident.
+
+## Skills Learned
+
+- Learned how to respond to an incident using NIST CSF framework  
+- Learned how to document incidents 
+
